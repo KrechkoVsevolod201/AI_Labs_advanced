@@ -20,10 +20,18 @@
 Конфиг:
 
 Используемое устройство: cuda
+
 PyTorch версия: 2.9.1+cu128
+
 Segmentation Models PyTorch версия: 0.5.0
+
 Albumentations версия: 2.0.8
+
 CUDA доступна: True
+
 Версия CUDA: 12.8
+
 Количество GPU: 1
+
 Имя GPU: NVIDIA GeForce RTX 4060 Ti
+
